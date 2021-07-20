@@ -10,8 +10,7 @@ professor = RateMyProfScraper(schoolId=xxx, firstName="xxx", lastName="xxx")
 Example:
 ```py
 professor = RateMyProfScraper(schoolId=1258, firstName="Maria", lastName="Aarnio")
-print(professor)
-{"rating":"4.8", "num_ratings":3, "dept":"Philosophy"}
+print(professor) #{"rating":"4.8", "num_ratings":3, "dept":"Philosophy"}
 ```
 
 To access a specific part of the returned JSON object:
