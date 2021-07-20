@@ -1,6 +1,6 @@
 # RateMyProfessorScraper
 
-A simple scraper to extract information about a professor off of RateMyProfessors.
+A simple scraper to extract information off RateMyProfessors.
 
 To use the scraper:
 ```py
